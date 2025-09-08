@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Data/Documents/Academics/My Works/GitHub Projects/Traffic-Flow-Level-Clustering/mlruns/692337923691034144/models/m-5f03f3895a684d76893edc094596cfc7/artifacts
+creation_timestamp: 1757232734030
+experiment_id: '692337923691034144'
+last_updated_timestamp: 1757232741097
+model_id: m-5f03f3895a684d76893edc094596cfc7
+model_type: null
+name: autoencoder_model
+source_run_id: 51f7512ec7324761a41d4faea6435360
+status: 2
+status_message: null

@@ -1,0 +1,5 @@
+batch_size: 32
+best_epoch: 50
+epochs: 50
+latent_dim: 7
+validation_split: 0.25

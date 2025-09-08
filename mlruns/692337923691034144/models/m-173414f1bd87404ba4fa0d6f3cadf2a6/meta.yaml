@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Data/Documents/Academics/My Works/GitHub Projects/Traffic-Flow-Level-Clustering/mlruns/692337923691034144/models/m-173414f1bd87404ba4fa0d6f3cadf2a6/artifacts
+creation_timestamp: 1757232784737
+experiment_id: '692337923691034144'
+last_updated_timestamp: 1757232791317
+model_id: m-173414f1bd87404ba4fa0d6f3cadf2a6
+model_type: null
+name: encoder_model
+source_run_id: 4f453555ac344d8ca4c61144d7bedb76
+status: 2
+status_message: null
